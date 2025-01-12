@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkretportal_docs=self.webpackChunkretportal_docs||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/Document/blog","blogTitle":"Blog","authorsListPath":"/Document/blog/authors"}')}}]);

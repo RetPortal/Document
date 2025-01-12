@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkretportal_docs=self.webpackChunkretportal_docs||[]).push([[1336],{314:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/Document/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
